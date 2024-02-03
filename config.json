@@ -1,0 +1,9 @@
+{
+    "api": "",
+    "debug": true,
+    "outputToFile": true,
+    "onlyOutputConfirmed": true,
+    "delay": 5,
+    "printSnusbaseLogs": true,
+    "outputSnusbaseLogs": false
+}
